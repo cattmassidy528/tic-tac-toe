@@ -1,2 +1,4 @@
 # tic-tac-toe
-tic-tac-toe in javascript. mostly functional.
+i finally completed a project. mostly completed. completed enough.
+tic-tac-toe in javascript. ta-daaaa!!!!
+
